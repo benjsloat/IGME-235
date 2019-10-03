@@ -72,6 +72,10 @@ any of the "drive" buttons will not move the car forward until that player's roa
 There will be a tutorial screen showing the controls for each player accessible from the title screen.
 
 ### "Screenshots"
+![Title Mockup](https://raw.githubusercontent.com/benjsloat/IGME-235/master/title-screen.png)
+![Gameplay Mockup](https://raw.githubusercontent.com/benjsloat/IGME-235/master/gameplay.png)
+![Red Car](https://raw.githubusercontent.com/benjsloat/IGME-235/master/redcar.png)
+![Blue Car](https://raw.githubusercontent.com/benjsloat/IGME-235/master/bluecar.png)
 
 # Documentation file
 ## Keyboard Racer Documentation
