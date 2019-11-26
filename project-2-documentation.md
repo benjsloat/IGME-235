@@ -1,8 +1,8 @@
 # Project 2 Documentation
 
 ### SOURCES:
--amiibo logo from Nintendo
--api from amiiboapi.com
+* -amiibo logo from Nintendo
+* -api from amiiboapi.com
 
 ### PROCESS:
 We started with the amiibo API starter file. We changed what we request from the actual API; by default, the user would have to essentially have the exact url of the character. We changed it to filter the entire list of amiibo instead, which gave better search functionality. After that, we added additional filter options and improved the CSS.
